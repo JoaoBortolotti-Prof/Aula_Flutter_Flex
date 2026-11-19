@@ -32,6 +32,6 @@ class Guia extends StatelessWidget {
           },
         ),
       ),
-    );x
+    );
   }
 }
